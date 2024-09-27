@@ -2,9 +2,9 @@
 *.class
 HELP.md
 
-/target/
-/tmpCode/
-/.idea/
+/target
+/tmpCode
+/.idea
 # Log file
 *.log
 

@@ -3,6 +3,7 @@
 HELP.md
 
 /target/
+/tmpCode/
 
 # Log file
 *.log

@@ -185,8 +185,8 @@ public abstract class JavaCodeSandboxTemplate implements CodeSandbox {
         executeCodeResponse.setOutputList(outputList);
         JudgeInfo judgeInfo = new JudgeInfo();
         judgeInfo.setTime(maxTime);
-        // 返回的内存单位是 kb
-        judgeInfo.setMemory(maxMemory / 1024);
+        // 返回的内存单位是 MB
+        judgeInfo.setMemory(maxMemory / (1024*1024));
         // 要借助第三方库来获取内存占用，非常麻烦，此处不做实现
 //        judgeInfo.setMemory();
         executeCodeResponse.setJudgeInfo(judgeInfo);

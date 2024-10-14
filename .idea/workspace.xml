@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7960b2e7-cbbe-4745-8bbf-bbd71858f590" name="更改" comment="Revert &quot;init&quot;&#10;&#10;This reverts commit 5a43f052">
-      <change afterPath="$PROJECT_DIR$/oj-code-sandbox.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jim/ojcodesandbox/service/JavaCodeSandboxTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jim/ojcodesandbox/service/JavaCodeSandboxTemplate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/项目/在线判题/oj-code-sandbox",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,6 +50,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\项目\在线判题\oj-code-sandbox" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="虚拟机" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="oj-code-sandbox" />
@@ -71,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727450848214</updated>
       <workItem from="1727450850129" duration="2201000" />
-      <workItem from="1727507501012" duration="2243000" />
+      <workItem from="1727507501012" duration="3105000" />
     </task>
     <servers />
   </component>

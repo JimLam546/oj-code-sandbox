@@ -36,7 +36,6 @@ public abstract class JavaCodeSandboxTemplate implements CodeSandbox {
         String code = executeCodeRequest.getCode();
         String language = executeCodeRequest.getLanguage();
         ExecuteCodeResponse outputResponse = new ExecuteCodeResponse();
-
 //        1. 把用户的代码保存为文件
         File userCodeFile = saveCodeToFile(code);
 
